@@ -1,0 +1,25 @@
+
+# Data processing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+joblib
+
+# Deep Learning
+tensorflow
+
+# Image processing
+opencv-python
+pillow
+scikit-image
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Frontend
+streamlit

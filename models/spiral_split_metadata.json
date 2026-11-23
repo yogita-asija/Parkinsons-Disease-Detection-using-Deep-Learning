@@ -1,0 +1,40 @@
+{
+    "training_volunteers": [
+        "healthy_V01",
+        "healthy_V02",
+        "healthy_V03",
+        "healthy_V05",
+        "healthy_V06",
+        "healthy_V08",
+        "healthy_V10",
+        "healthy_V12",
+        "parkinson_V02",
+        "parkinson_V04",
+        "parkinson_V05",
+        "parkinson_V06",
+        "parkinson_V07",
+        "parkinson_V11",
+        "parkinson_V12",
+        "parkinson_V13",
+        "parkinson_V14"
+    ],
+    "validation_volunteers": [
+        "healthy_V09",
+        "healthy_V55",
+        "parkinson_V01",
+        "parkinson_V09",
+        "parkinson_V10"
+    ],
+    "testing_volunteers": [
+        "healthy_V04",
+        "healthy_V07",
+        "healthy_V11",
+        "parkinson_V03",
+        "parkinson_V08",
+        "parkinson_V15"
+    ],
+    "training_images": 51,
+    "validation_images": 27,
+    "testing_images": 24,
+    "participant_overlap": 0
+}
